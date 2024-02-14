@@ -1,0 +1,14 @@
+{
+  "imports": {
+    "langchain": "npm:/langchain@0.1.1",
+    "langchain/": "npm:/langchain@0.1.1/",
+    "@langchain/openai": "npm:/@langchain/openai@0.0.10",
+    "@langchain/openai/": "npm:/@langchain/openai@0.0.10/",
+    "@langchain/core": "npm:/@langchain/core@0.1.10",
+    "@langchain/core/": "npm:/@langchain/core@0.1.10/",
+    "dotenv/config": "npm:/dotenv/config",
+    "ignore": "npm:/ignore",
+    "pdf-parse": "npm:/pdf-parse",
+    "ml-distance": "npm:/ml-distance"
+  }
+}
