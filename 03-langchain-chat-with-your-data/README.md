@@ -1,4 +1,6 @@
-# Introduction
+# LangChain: Chat With Your Data
+
+## Introduction
 
 - This course introduces a new course on using LangChain for conversing with personal or proprietary data.
 
