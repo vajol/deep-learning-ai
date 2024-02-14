@@ -15,6 +15,6 @@ List of courses included in this repo so far:
 5. Building Generative AI Applications with Gradio
 6. Build LLM Apps with LangChain.js
 
-Read more aboout contents of each course in their "Readme" files.
+Read more aboout contents of each course in their "Readme" files. Each file contains detailed description of the code for each notebook file in the course.
 
 All the rights for material presented here belong to DeepLearning.AI
