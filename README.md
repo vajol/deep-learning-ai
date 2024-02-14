@@ -2,7 +2,7 @@
 
 This repository contains Jupyter notebooks and notes from transcriptions of short courses from DeepLearning.AI
 
-You can fnd all the courses onlline by followng this link: [DeepLearning.AI](https://www.deeplearning.ai/short-courses/)
+You can fnd all the courses onlline by following this link: [DeepLearning.AI](https://www.deeplearning.ai/short-courses/)
 
 Participants of these courses are encouraged to download notebooks and run them locally. So I collected these noteboks and made notes while taking these courses.
 
