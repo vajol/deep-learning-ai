@@ -1,5 +1,11 @@
 # ChatGPT Prompt Engineering for Developers
 
+# Requirements
+
+Notebooks in this course use older version of "openai" library. To run the code successfully, you can either pin the ld version with 'pip install openai==0.28', or use newer version of the code, as suggested in the first notebook.
+
+# Introduction
+
 The course aims to teach developers how to effectively use Large Language Models (LLMs) in software development, emphasizing the underappreciated potential of using LLMs through API calls for building software applications.
 
 Course focus is on leveraging instruction-tuned LLMs for developing software applications and the emphasis on clear, effective prompting techniques.
